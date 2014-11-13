@@ -1,0 +1,3 @@
+PROGRAM test
+Crt "This is the initial program"
+STOP
