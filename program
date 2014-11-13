@@ -1,4 +1,5 @@
 PROGRAM test
 Crt "This is the initial program"
 Crt "This is the first feature"
+Crt "This is the second feature"
 STOP
